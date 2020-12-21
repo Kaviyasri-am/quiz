@@ -1,0 +1,21 @@
+.topnav a{
+     	float:right;
+     	display: block;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration:none;
+}
+#results{
+font: 44px Georgia,Serif;
+}
+#quiz  input{
+vertical-align:middle;
+}
+
+#quiz ol{
+margin: 0 0 20px 0;
+}
+
+#quiz ol div{
+padding: 4px 0;
+}
